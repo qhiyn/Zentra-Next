@@ -25,7 +25,7 @@ const UnifiedViewSectionContent = () => {
                         <span className={styles["zentra-logo-icon"]}>Z</span>
                         <span>Total Net Worth</span>
                     </div>
-                    <p className={styles["zentra-card-balance"]}>$12,345.67</p>
+                    <p className={styles["zentra-card-balance"]}>Rp4.611.564</p>
                     <p className={styles["zentra-card-label"]}>Across all 3 accounts</p>
                 </div>
             </div>
