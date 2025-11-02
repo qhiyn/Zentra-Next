@@ -16,8 +16,8 @@ const ChatbotIcon = () => (
 
 const ChatbotMockup = () => (
     <div className={styles["chatbot-content"]}>
-        <div className={`${styles["chat-bubble"]} ${styles["user"]}`}>Where did most of my money go last month?</div>
-        <div className={`${styles["chat-bubble"]} ${styles["ai"]}`}>It looks like you spent the most on Food & Drink at IDR 6.750.000, with Shopping coming in second at IDR 4.200.000. Would you like a more detailed breakdown?</div>
+        <div className={`${styles["chat-bubble"]} ${styles["user"]}`}>What's my unusual spending this month? Any tips for saving next month?</div>
+        <div className={`${styles["chat-bubble"]} ${styles["ai"]}`}>Your unusual spends were IDR 1.200.000 on online gaming and IDR 950.000 on late-night food delivery. Want some saving tips?</div>
         <div className={`${styles["chat-bubble"]} ${styles["user"]}`}>Yes, show me the details.</div>
         <div className={`${styles["chat-bubble"]} ${styles["ai"]}`}>Here’s the detailed summary for your spending last month. You spent around IDR 6.750.000 on food and drinks, mostly for eating out and delivery. Shopping took about IDR 4.200.000, mostly on clothes and small gadgets. Transportation cost you IDR 1.500.000, while entertainment and subscriptions were around IDR 950.000. Utilities and bills added up to about IDR 820.000 in total.</div>
 
