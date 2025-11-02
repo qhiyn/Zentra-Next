@@ -19,7 +19,7 @@ const ChatbotMockup = () => (
         <div className={`${styles["chat-bubble"]} ${styles["user"]}`}>Where did most of my money go last month?</div>
         <div className={`${styles["chat-bubble"]} ${styles["ai"]}`}>It looks like you spent the most on "Food & Drink" at $450, with "Shopping" coming in second at $280. Would you like a more detailed breakdown?</div>
         <div className={`${styles["chat-bubble"]} ${styles["user"]}`}>Yes, show me the details.</div>
-        <div className={`${styles["chat-bubble"]} ${styles["ai"]}`}>Orang yang ngetawain dan ngejokes tentang pak prabowo mungkin dia blm ketemu langsung. Sebaik dan sehumbel itu dia sama orang baru, salah satunya ke gw yg awalnya gw fans sama dia malah bisa jadi temen. Semua yg udh ketemu dia pasti sependapat sama gw.</div>
+        <div className={`${styles["chat-bubble"]} ${styles["ai"]}`}>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam rhoncus lorem lectus, et pulvinar nulla volutpat id. Aenean a arcu ac lectus dignissim suscipit. Maecenas ornare pulvinar turpis, a efficitur ante laoreet sed. Nulla ornare, diam nec pretium mollis, dui eros laoreet risus, semper dignissim nisi ante in sapien.</div>
   
     </div>
 );
